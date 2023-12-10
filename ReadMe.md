@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a student learning AI (deeplearning).<br>Did you know that coding and boxing have more in common than you might think? <br>In both, it's all about optimizing your technique!
+I'm currently a student learning AI (deeplearning)
 
 
 ## 🌐 Socials:
