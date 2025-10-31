@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a student learning AI (deeplearning)
+I'm a Python cum AI Developer
 
 
 ## 🌐 Socials:
